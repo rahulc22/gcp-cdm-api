@@ -13,7 +13,7 @@
 	<artifactId>cdm-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>cdm</name>
+	<name>cdm¨-api</name>
 	<description>Exercise project for Customer Data Management API</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
