@@ -1,4 +1,4 @@
-package com.ikea.cdm.controller;
+package com.ikea.cdm.config;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
